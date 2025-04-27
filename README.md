@@ -31,22 +31,9 @@ This project is a multiplayer tank battle game where players control tanks in an
 
 This project is based on the [Unity Tanks Tutorial](https://learn.unity.com/course/tanks-make-a-battle-game-for-web-and-mobile) with my own enhancements and customizations.
 
-## Screenshots
-
-[Add screenshots of your game here]
-
 ## How to Play
 
 1. Open the project in Unity
 2. Play the Main scene
 3. Select the number of players and tank types
 4. Battle until only one tank remains!
-
-## Learning Outcomes
-
-Through this project, I gained experience with:
-- Unity game development
-- C# programming
-- Game mechanics implementation
-- AI development
-- UI/UX design for games 
